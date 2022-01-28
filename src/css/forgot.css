@@ -1,0 +1,48 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+h2{
+    margin-top: 30px;
+}
+.text-of-forgot{
+   
+}
+.forgot{
+    display: flex;
+    height: 70vh;
+   border-radius: 6px;
+   box-shadow: 2px 4px 4px black;
+   background-color: white;
+   margin: 100px;
+   padding: 30px;
+  
+   letter-spacing: 1px;
+   align-items: center;
+}
+.forgot-field{
+    padding: 35px;
+}
+.p-of-forgot{
+    color: black;
+}
+.sa{
+    /* align-items: center; */
+}
+.password-of-forgot{
+    font-size: large;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    border-bottom: 1px solid black;
+    width: 13.7vw;
+
+    
+}
+.password-of-forgot::placeholder{
+    background-color: white;
+   /* text-decoration: underline; */
+   margin-bottom: 4px;
+  
+}
